@@ -1,4 +1,4 @@
-# Deep-Reinforcement-Stock-Trading
+# Stock-Trading-using-Deep-Reinforcement-Learning
 
 This project intends to leverage deep reinforcement learning in stock trading.  The reward for agents is the net unrealized (meaning the stocks are still in portfolio and not cashed out yet) profit evaluated at each action step. For inaction at each step, a negtive penalty is added to the portfolio as the missed opportunity to invest in "risk-free" Treasury bonds.
 
