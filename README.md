@@ -46,8 +46,6 @@ where `stock_name` can be referred in `data` directory and `model_to_laod` can b
 Note that the following results were obtained with 10 epochs of training only. 
 ![alt_text](./visualizations/DQN_^GSPC_2014.png)
 
-![alt_text](./visualizations/DDPG_^GSPC_2018.png)
-
 ### References:
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [Double Deep Q Networks](https://towardsdatascience.com/double-deep-q-networks-905dd8325412)
