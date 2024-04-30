@@ -49,7 +49,6 @@ Note that the following results were obtained with 10 epochs of training only.
 ### References:
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [Double Deep Q Networks](https://towardsdatascience.com/double-deep-q-networks-905dd8325412)
-- [Using Keras and Deep Deterministic Policy Gradient to play TORCS](https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html)
 - [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522)
 - [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/)
 - [Adversarial Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/abs/1808.09940)
